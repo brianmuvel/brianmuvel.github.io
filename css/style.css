@@ -110,6 +110,19 @@ main article{
     border: solid 2px #D3D3D3;
     border-radius: 4px;
 }
+article h2{
+    font-size: 18px;
+}
+article h3{
+    font-size: 26px;
+}
+article span{
+    font-size: 13px;
+    color: #D3D3D3;
+    display: block;
+    margin: -3px 0 14px 0;
+}
 article button{
     width: 100%!important;
+    margin-bottom: 15px;
 }
